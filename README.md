@@ -1,24 +1,39 @@
-# 👋 Hi, I'm Jyothsna!
 
-Welcome to my GitHub! I'm a Senior Data Analyst with extensive experience across the Insurance, Telecommunication, Education, and E-commerce industries.
 
-## 🛠 What I Do:
+# 👩🏻‍💻 Jyothsna V | Data Scientist 
 
-I have a strong background in analyzing large datasets using tools like Python, PySpark, and SQL. My work includes building dashboards in Tableau and Power BI, automating workflows with Airflow, and developing models for various business applications. I also have significant experience in natural language processing (NLP) and sentiment analysis, allowing me to extract valuable insights from unstructured text data.
+🚀 **Data-driven problem solver | Workflow Automation and Data Visualization | NLP & Chatbot Analytics | ML & Data Analysis | Risk Analysis**  
+*Python • SQL • Power BI • Airflow*
 
-### Industry Experience:
 
-- **Risk Analysis Dashboards:** Developed and automated dashboards to monitor key risk indicators (KRIs) in the insurance domain, which reduced risk by 4%.
-- **Chatbot Performance Analysis:** Created dashboards and reports that track chatbot performance.
-- **Customer Segmentation:** Applied clustering algorithms to segment customers, enabling targeted marketing efforts.
-- **Sentiment Analysis:** Implemented sentiment analysis models using NLP tools such as NLTK and Spacy to analyze customer feedback and improve user experience.
+## 👩🏻‍💻 About Me  
 
-## 🎯 Skills:
+I’m a Data Scientist with expertise in analyzing large datasets, automating workflows, and delivering insights that drive measurable business impact. I have worked across industries such as Insurance, E-commerce, Telecom, and Education, where I’ve built data-driven solutions that reduce risk, improve customer engagement, and support strategic decision-making. 
 
-- **Core Competencies:** Data Analysis, Risk Analysis,Text Analysis and Data Visualization
+### 🔑 What I Do  
 
-## 🌱 What I’m Learning:
-I’m always looking to expand my skill set. Currently, I’m diving deeper into cloud technologies and ML to enhance my data science capabilities.
+- **Workflow Automation & Data Engineering**  
+  Automating pipelines with PySpark and Airflow, streamlining Power BI dashboards, and ensuring efficient data operations.  
+
+- **NLP & Chatbot Analytics**  
+  Using NLP techniques with NLTK and SpaCy for sentiment analysis, intent recognition, text classification, topic modeling, and chatbot training to optimize conversational systems.  
+
+- **Business Intelligence & Visualization**  
+  Building Power BI dashboards to monitor KPIs, customer journeys, and risk indicators for better decision-making.  
+
+- **Machine Learning Applications**  
+  Developing models for customer segmentation, anomaly detection, and predictive analysis to drive business outcomes.  
+
+### 🛠️ Skills
+- **Programming & Data:** Python (Pandas, NumPy, PySpark), SQL  
+- **Machine Learning:** Customer Segmentation, NLP (Intent Recognition, Chatbot Training, Topic Modeling, Text Classification, Sentiment, Embeddings), Anomaly Detection  
+- **Visualization:** Power BI, Matplotlib, Seaborn  
+- **Data Engineering:** Airflow, ETL, Data Pipelines, Automation  
+- **Analytics:** Funnel Analysis, A/B Testing, Risk Analytics  
+ 
+
+## 🌱 Currently Learning  
+Exploring AI and advanced machine learning techniques, focusing on building ML systems and deploying them at scale.  
 
 <!---
 jyothsnavv1/jyothsnavv1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
