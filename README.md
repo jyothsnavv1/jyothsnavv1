@@ -2,7 +2,7 @@
 
 # 👩🏻‍💻 Jyothsna V | Data Scientist 
 
-🚀 **Data-driven problem solver | Workflow Automation and Data Visualization | NLP & Chatbot Analytics | ML & Data Analysis | Risk Analysis**  
+🚀 **Data-driven problem solver | ML • NLP • Chatbots | Risk Analysis • Data Visualization**  
 *Python • SQL • Power BI • Airflow*
 
 
